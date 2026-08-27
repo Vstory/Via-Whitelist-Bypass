@@ -1,0 +1,13 @@
+# Build artifacts
+tools/
+build/
+*.dex
+*.apk
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
