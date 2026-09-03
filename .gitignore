@@ -1,0 +1,17 @@
+# Build artifacts
+tools/*.jar
+tools/.tmp_scan/
+build/
+*.dex
+*.apk
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# token 密钥（绝不进仓库）
+dev-project/tokens/
