@@ -1,0 +1,5 @@
+# api102 模块标识 (LSPosed 读取)
+minApiVersion=101
+targetApiVersion=102
+staticScope=true
+autoHotReload=true
