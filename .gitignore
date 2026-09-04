@@ -15,3 +15,5 @@ Thumbs.db
 
 # token 密钥（绝不进仓库）
 dev-project/tokens/
+
+dev-project/

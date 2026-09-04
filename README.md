@@ -87,7 +87,6 @@ Via WB: whitelist NEUTRALIZED (r9.k 6 methods hooked incl config parser u)
 
 **依赖**：Java（baksmali 自动下载到 `tools/`）。
 
-> 原理与细节见 `dev-project/analysis.md`；版本历史见 `dev-project/CHANGELOG.md`。
 
 ## 免责声明
 
